@@ -11,7 +11,7 @@ KeyGuardLibrary.Set({
   falseData = falseData,
 })
 
-local keyFile = "wsj-keys.txt"
+local keyFile = "World-Teams2.txt"
 
 local function saveKey(key)
     writefile(keyFile, key)
